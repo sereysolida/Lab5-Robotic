@@ -123,3 +123,5 @@ SCL	GPIO 22
 
 * Tap Refresh / Get Data to load the latest readings.
 
+## Video URL
+https://youtube.com/shorts/vav6QG6bXLY?feature=share
